@@ -1,0 +1,4 @@
+baseURL = 'https://shopping.techromantica.com'
+languageCode = 'en-us'
+title = 'ShoppingHub | TechRomantica'
+theme = "ananke"
